@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.exe
+previews/
+PDF_Studio_source_bundle.md
